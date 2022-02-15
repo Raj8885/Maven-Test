@@ -1,2 +1,3 @@
-# Maven-Test
-A simple Maven-Java Based Project
+# README
+
+Simple maven dependency
